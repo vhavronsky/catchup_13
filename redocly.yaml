@@ -15,3 +15,8 @@ footer:
           label: Markdoc
         - href: https://openapis.org
           label: OpenAPI
+
+seo:
+  title: LLM repro
+  description: Repro for llms.txt domain mismatch
+  siteUrl: https://docs-repro.example.com
