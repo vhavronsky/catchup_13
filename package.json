@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "react": "19.2.5"
+    "react": "19.2.5",
+    "@redocly/realm": "0.0.0-20260420103033",
+    "@redocly/theme": "0.0.0-20260420103033"
   }
 }
