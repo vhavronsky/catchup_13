@@ -15,8 +15,6 @@ servers:
 paths:
   /museum-hours:
     get:
-      x-rbac:
-        anonymous: none
       summary: Get museum hours
       description: Get upcoming museum operating hours.
       operationId: getMuseumHours
